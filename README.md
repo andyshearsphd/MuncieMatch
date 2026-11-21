@@ -43,7 +43,7 @@ A match-3 puzzle game for phones, hosted by the purple hippo from Muncie Hippo H
 
 - Glossy tiles and buttons in the style of a 2010 iPhone game
 - The purple hippo cheers your combos, winks at the big moves and gives tips
-- A title-screen skyline with the AT&T building, Cornerstone, Ball State's Teachers College and bell tower, and the big downtown water tower
+- A title-screen skyline worked in with silhouettes of the AT&T building, Cornerstone, Ball State's Teachers College and bell tower, and the big downtown water tower
 - Sound effects, best scores and saved neighborhood progress
 
 ## Notes
